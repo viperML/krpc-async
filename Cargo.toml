@@ -1,0 +1,5 @@
+[workspace]
+resolver = "2"
+members = [ "krpc-async", "krpc-async-client",
+    "krpc-async-types",
+]
